@@ -1,5 +1,5 @@
 import { createBrowserRouter } from "react-router-dom";
-import Netflix from "./assets/Netflix";
+import Netflix from "./Netflix";
 
  export const router = createBrowserRouter([
    
