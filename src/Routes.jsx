@@ -4,7 +4,7 @@ import Netflix from "./Netflix";
  export const router = createBrowserRouter([
    
     {
-      path: "/netflix",
+      path: "",
       element: <Netflix/>
     },
    
